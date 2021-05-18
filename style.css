@@ -1,0 +1,159 @@
+/*Main Body*/
+
+.ToanTrang {
+    padding: 0 width: 210mm;
+    min-height: 260mm;
+}
+
+.Khung {
+    margin: 0 auto;
+    width: 80%;
+    min-height: 190mm;
+    position: relative;
+    font-family: robotocondensed, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+
+/*Profile body*/
+
+
+/*Avarta*/
+
+.KhungAvatar {
+    width: 140px;
+    height: 140px;
+    float: left;
+}
+
+.Avatar {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+
+/*Profile*/
+
+.HeaderChinh {
+    margin: 0 auto;
+    width: 80%;
+    min-height: 60px;
+    margin-bottom: 0;
+    display: block;
+    float: left;
+    padding-left: 16px;
+}
+
+.TieuDe {
+    margin-bottom: 8px;
+}
+
+.HoTen {
+    width: 100%;
+    font-weight: 500;
+    font-family: robotocondensed-bold, Arial, sans-serif;
+    font-size: 32px;
+    text-transform: capitalize;
+    line-height: 42px;
+    display: inline-block;
+    color: #333;
+}
+
+.LienHe {
+    display: inline-block;
+}
+
+.LienHeCon {
+    float: left;
+    margin-bottom: 5px;
+    padding: 4px 12px;
+    background-color: #f2eb27;
+    margin: 4px;
+    border-radius: 16px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 400px;
+    color: #333;
+}
+
+.MucTieu {
+    padding: 12px 0;
+}
+
+
+/*Cvo-main*/
+
+.TrangChinh {
+    margin-top: 16px;
+}
+
+.CotTrai {
+    padding-top: 5px;
+    width: 60%;
+    float: left;
+    min-height: 560px;
+}
+
+.CotPhai {
+    padding-top: 5px;
+    width: 40%;
+    min-height: 560px;
+    float: left;
+}
+
+.Lop1 {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3mm;
+    padding-right: 3mm;
+}
+
+.Lop2 {
+    margin: 0 0 10px;
+    font-size: 20px;
+    line-height: 32px;
+    text-transform: uppercase;
+    color: #333;
+    font-weight: 500;
+}
+
+.Lop3 {
+    display: inline;
+    padding-right: 5px;
+    border-bottom: 5px solid #f2eb27;
+    padding-bottom: 4px;
+}
+
+
+/*
+.Lop4 {
+    margin-top: 12px;
+}
+*/
+
+.row {
+    margin-top: 20px;
+}
+
+.KhungNho {
+    color: #333;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.Indam {
+    font-weight: bold;
+}
+
+.Italic {
+    font-style: italic;
+}
+
+.Chu {
+    font-weight: 400;
+    color: #333;
+}
